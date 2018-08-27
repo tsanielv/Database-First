@@ -1,0 +1,9 @@
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\EntityFramework.dll
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\EntityFramework.xml
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+c:\Users\T\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
