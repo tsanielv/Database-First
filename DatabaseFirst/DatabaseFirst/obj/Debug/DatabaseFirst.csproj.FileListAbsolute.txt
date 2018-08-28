@@ -1,0 +1,9 @@
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Users\T\Documents\Visual Studio 2015\Projects\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
